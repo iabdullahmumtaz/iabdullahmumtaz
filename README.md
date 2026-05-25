@@ -72,17 +72,6 @@ Results-driven **Senior Full Stack Developer** with **5+ years** of experience b
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iabdullahmumtaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-
-</div>
-
----
-
 ## 🌐 Connect
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdullahmumtaz--portfolio.vercel.app-6366f1?style=for-the-badge)](https://abdullahmumtaz-portfolio.vercel.app/)
