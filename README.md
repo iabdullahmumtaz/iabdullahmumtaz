@@ -65,8 +65,9 @@ Results-driven **Senior Full Stack Developer** with **5+ years** of experience b
 | **Senior Full Stack Developer** | IT Dukes | May 2025 – Present |
 | **Full Stack Developer** | IT Dukes | May 2024 – May 2025 |
 | **Associate Software Engineer** | 12th Spring | May 2024 – Oct 2025 |
+| **Junior Web Developer** | Swiss Tech | Jun 2023 – Apr 2024 |
+| **Web Developer Intern** | Swiss Tech | Jan 2023 – Jun 2023 |
 | **Freelance Full Stack / WordPress** | Remote | 2021 – Present |
-| **Junior Web Developer** | The Swiss Tech | Jan 2023 – Apr 2024 |
 
 **Education:** BS Computer Science — University of Lahore
 
