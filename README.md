@@ -7,7 +7,7 @@
 
 </div>
 
-Results-driven **Senior Full Stack Developer** with **5+ years** of experience building scalable web applications, **SaaS platforms**, enterprise dashboards, and digital products for international clients.
+Results-driven **Senior Full Stack Developer** with **3+ years** of experience building scalable web applications, **SaaS platforms**, enterprise dashboards, and digital products for international clients.
 
 ---
 
