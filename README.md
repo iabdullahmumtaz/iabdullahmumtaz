@@ -6,19 +6,19 @@
 
 </div>
 
-Results-driven **Senior Full Stack Developer** with **3+ years** of experience shipping production web apps, **SaaS platforms**, enterprise dashboards, and digital products for international clients — from UI/API design through deployment.
+Results-driven **Senior Full Stack Developer** with **3+ years** of experience shipping production web apps, **SaaS platforms**, enterprise dashboards, and digital products for international clients from UI/API design through deployment.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 **Full Stack Engineer** at [IT Dukes](https://itdukes.com) — production APIs, dashboards & cloud workflows
+- 🔭 **Full Stack Engineer** at [IT Dukes](https://itdukes.com) production APIs, dashboards & cloud workflows
 - 🚀 Flagship work: **Lottae**, **Time2Wash**, **Shahen Express**, **Master Portal**, **DMS**
 - 💻 Stack: **React · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB · MySQL · AWS · Docker**
 - 🌱 Focus: Multi-tenant SaaS, RBAC, system design, CI/CD & cloud delivery
 - 🏆 **20+** apps shipped · mentored juniors · led IT ops at UOL Innovation Olympiad
-- 👯 Open to **full-time & contract** — React / Node / SaaS products
-- 📫 **iabdullahofficial2003@gmail.com** · **+92 311 7154461** · Lahore, PK
+- 👯 Open to **full-time & contract**  React / Node / SaaS products
+- 📫 **iabdullahofficial2003@gmail.com** · **abdullah.mumtaz.developer@gmail.com** · Lahore, PK
 
 ---
 
