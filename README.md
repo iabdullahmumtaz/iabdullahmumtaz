@@ -49,22 +49,6 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
 
 ---
 
-<div align="center">
-
-## GitHub Stats
-
-<!-- Official vercel.app stats often 503 — using working mirrors -->
-<img src="https://github-readme-stats-plus.vercel.app/api?username=iabdullahmumtaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=iabdullahmumtaz&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-plus.vercel.app/api/top-langs/?username=iabdullahmumtaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top languages" />
-
-</div>
-
----
-
 ## Flagship Projects
 
 | Project | Description | Stack |
@@ -147,15 +131,17 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
 
 <br/>
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>Education</h3>
       <b>BS Computer Science</b><br/>
       University of Lahore<br/>
       Intermediate (ICS) — Aspire Group of Colleges
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>Leadership</h3>
       <b>Director IT Support</b> — Innovation Olympiad 5.0 & 6.0<br/>
       <b>Module Head</b> — Speed Programming<br/>
@@ -163,6 +149,8 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
