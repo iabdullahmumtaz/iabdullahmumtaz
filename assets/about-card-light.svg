@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="About Abdullah Mumtaz">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <style>
+      .fade { animation: fade 1.2s ease-out both; }
+      @keyframes fade {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+  <rect width="900" height="280" rx="22" fill="url(#bg)" stroke="#cbd5e1"/>
+  <text x="36" y="48" fill="#0f766e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">// about.me</text>
+  <g class="fade">
+    <text x="36" y="92" fill="#0f172a" font-family="Segoe UI, system-ui, sans-serif" font-size="20" font-weight="600">Senior Full Stack Developer · 3+ years shipping production SaaS</text>
+    <text x="36" y="128" fill="#475569" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Building multi-tenant platforms, dashboards &amp; APIs from UI to cloud deploy.</text>
+    <text x="36" y="168" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">¸ Full Stack Engineer @ IT Dukes</text>
+    <text x="36" y="194" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">¸ Flagship: Lottae · Time2Wash · DMS · Shahen Express</text>
+    <text x="36" y="220" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">¸ Stack: React · Next.js · Node · TypeScript · PostgreSQL · AWS</text>
+    <text x="36" y="246" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">¸ Open to full-time &amp; contract · Lahore, PK · Worldwide remote</text>
+  </g>
+</svg>
