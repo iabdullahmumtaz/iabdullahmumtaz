@@ -1,10 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,45:0ea5e9,100:1e3a5f&height=200&section=header&text=Abdullah%20Mumtaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20TypeScript%20%C2%B7%20MERN%20%C2%B7%20SaaS&descAlignY=55&descSize=16" width="100%" alt="Abdullah Mumtaz" />
+<h3><code>iabdullahmumtaz@github ~ $ whoami</code></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I%27m+Abdullah+%F0%9F%91%8B;I+build+production+SaaS+%26+web+apps;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
+<table>
+<tr>
+<td width="42%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=iabdullahmumtaz&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=iabdullahmumtaz&theme=github-dark&style=terminal&mode=dark" width="100%" alt="Abdullah Mumtaz portrait" />
+</picture>
+</td>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=iabdullahmumtaz&theme=github-dark&style=terminal&label=Abdullah+Mumtaz&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=iabdullahmumtaz&theme=github-dark&style=terminal&label=Abdullah+Mumtaz&mode=dark" width="100%" alt="Abdullah Mumtaz wordmark" />
+</picture>
+</td>
+</tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmumtaz-portfolio.vercel.app/)
+**Senior Full Stack Developer · TypeScript · MERN · SaaS · React · Node.js · AWS**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=680&height=40&lines=Shipping+production+SaaS+%26+enterprise+apps;Collaborator+on+Lottae+%C2%B7+Time2Wash+%C2%B7+Master+Portal;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmumtaz-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdullahmumtaz)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabdullahofficial2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iabdullahmumtaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iabdullahmumtaz)
@@ -17,21 +36,34 @@
 
 ---
 
-## About Me
+<div align="center">
+
+<h3><code>iabdullahmumtaz@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=iabdullahmumtaz&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=iabdullahmumtaz&theme=github-dark&style=terminal&mode=dark" width="100%" alt="Contribution heatmap" />
+</picture>
+
+</div>
+
+---
+
+### <code>$ cat about.md</code>
 
 Results-driven **Senior Full Stack Developer** with **3+ years** shipping production web apps, multi-tenant **SaaS platforms**, enterprise dashboards, and digital products for international clients — from UI/API design through cloud deployment.
 
 - Currently **Full Stack Engineer** at [IT Dukes](https://itdukes.com)
-- Flagship work: **Lottae**, **Time2Wash**, **Shahen Express**, **Master Portal**, **DMS**
+- Heavy collaborator on production repos: **Lottae**, **Time2Wash**, **Master Portal**
 - Stack: React · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB · AWS
-- Focus: Multi-tenant SaaS, RBAC, performance, clean architecture, CI/CD
+- Focus: Multi-tenant SaaS, RBAC, payments, performance, CI/CD
 - Based in **Lahore, PK** · open to remote worldwide
 
 ---
 
 <div align="center">
 
-## Tech Stack
+### <code>$ ls ./stack</code>
 
 **Frontend**
 
@@ -49,21 +81,49 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
 
 ---
 
-## Flagship Projects
+### <code>$ git log --collaborations</code>
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| **[Lottae](https://github.com/iabdullahmumtaz)** | Multi-tenant PM SaaS — Kanban, sprints, RBAC, forms, analytics | Next.js · Prisma · PostgreSQL · tRPC |
-| **[Time2Wash](https://github.com/iabdullahmumtaz/time2wash)** | On-demand car wash marketplace — booking, HyperPay, corporate | Node.js · Express · MySQL · Firebase |
-| **[Master Portal](https://github.com/iabdullahmumtaz/Master-Portal)** | Multi-tenant ops dashboard — licensing, billing, RBAC | Next.js · MongoDB · AWS S3 |
-| **[DMS](https://github.com/iabdullahmumtaz)** | Enterprise domain management — Cloudflare DNS & mailboxes | Next.js · MongoDB · Cloudflare |
-| **[Shahen Express](https://github.com/iabdullahmumtaz)** | Saudi freight & logistics — shipper / carrier / admin | Angular · Laravel · MySQL |
-| **[CPI Business](https://github.com/iabdullahmumtaz)** | Events & creative agency — 3D animations, SEO | Nuxt 3 · Vue 3 · Three.js |
-| **[Portfolio](https://github.com/iabdullahmumtaz/portfolio)** | Personal brand site — motion UI & proposals | Next.js · TypeScript · Vercel |
+> Code I ship as a **collaborator** on repos I don’t own — merged PRs & production features.
+
+| Repository | Role | Impact |
+|:-----------|:-----|:-------|
+| **[amantimewash/time2wash](https://github.com/amantimewash/time2wash)** | Core Collaborator · **49** merged PRs | Corporate discounts, commission fixes, custom slots, booking flows, UI fixes |
+| **[Ahsan-Sajid-DMS/lottae](https://github.com/Ahsan-Sajid-DMS/lottae)** | Core Collaborator · **37** merged PRs | Multi-tenant PM SaaS — boards, Jira-style UX, feature delivery |
+| **[Ahsan-Sajid-DMS/Master-Portal](https://github.com/Ahsan-Sajid-DMS/Master-Portal)** | Collaborator · **13** merged PRs | Ops dashboard — licensing, billing, RBAC, client management |
+| **[Ahsan-Sajid-DMS/omni1-setup-guide](https://github.com/Ahsan-Sajid-DMS/omni1-setup-guide)** | Contributor | Setup / onboarding messaging improvements |
 
 ---
 
-## Experience
+### <code>$ ls ./projects</code>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **[Lottae](https://github.com/Ahsan-Sajid-DMS/lottae)** | Multi-tenant PM SaaS — Kanban, sprints, RBAC, forms, analytics | Next.js · Prisma · PostgreSQL · tRPC |
+| **[Time2Wash](https://github.com/amantimewash/time2wash)** | On-demand car wash marketplace — booking, HyperPay, corporate | Node.js · Express · MySQL · Firebase |
+| **[Master Portal](https://github.com/Ahsan-Sajid-DMS/Master-Portal)** | Multi-tenant ops dashboard — licensing, billing, RBAC | Next.js · MongoDB · AWS S3 |
+| **[Portfolio](https://github.com/iabdullahmumtaz/portfolio)** | Personal brand site — motion UI & proposals | Next.js · TypeScript · Vercel |
+| **[Parallax Technologies](https://github.com/iabdullahmumtaz/parallax-technologies)** | Corporate website & web application | Next.js · TypeScript · Tailwind |
+| **[x-portal](https://github.com/iabdullahmumtaz/x-portal)** | Multi-tenant operations portal — clients & domains | TypeScript · Next.js |
+| **[FormWeave](https://github.com/iabdullahmumtaz/FormWeave)** | Form builder SaaS — drag-and-drop, logic, analytics | React · Node · MongoDB |
+
+<details>
+<summary><b>More products I've built</b></summary>
+
+<br/>
+
+| Repo | Focus |
+|:-----|:------|
+| [StockLedger](https://github.com/iabdullahmumtaz/StockLedger) · [PennyTrack](https://github.com/iabdullahmumtaz/PennyTrack) · [CogniChat](https://github.com/iabdullahmumtaz/CogniChat) | Inventory · expenses · AI chat |
+| [SnapSphere](https://github.com/iabdullahmumtaz/SnapSphere) · [TasteRoute](https://github.com/iabdullahmumtaz/TasteRoute) · [GeoRide](https://github.com/iabdullahmumtaz/GeoRide) | Social · delivery · rides |
+| [WhisperNet](https://github.com/iabdullahmumtaz/WhisperNet) · [ApexGate](https://github.com/iabdullahmumtaz/ApexGate) · [NimbusDrive](https://github.com/iabdullahmumtaz/NimbusDrive) | Chat · API gateway · cloud storage |
+| [DeployHive](https://github.com/iabdullahmumtaz/DeployHive) · [PodScope](https://github.com/iabdullahmumtaz/PodScope) · [ContentWeave](https://github.com/iabdullahmumtaz/ContentWeave) | DevOps · K8s · CMS |
+| [Starlie](https://github.com/iabdullahmumtaz/Starlie) · [CareerCraft](https://github.com/iabdullahmumtaz/CareerCraft) · [LeadGen](https://github.com/iabdullahmumtaz/LeadGen) | Product experiments |
+
+</details>
+
+---
+
+### <code>$ history --experience</code>
 
 <table>
   <tr>
@@ -156,7 +216,7 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
 
 <div align="center">
 
-## Let's Connect
+### <code>$ ./connect.sh</code>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmumtaz--portfolio.vercel.app-0d9488?style=for-the-badge)](https://abdullahmumtaz-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iabdullahmumtaz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iabdullahmumtaz)
@@ -165,10 +225,12 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
 
 <br/>
 
-### Open to full-time & contract · React · Node · SaaS · Cloud
+**Open to full-time & contract · React · Node · SaaS · Cloud**
 
 <img src="https://komarev.com/ghpvc/?username=iabdullahmumtaz&style=flat-square&color=0d9488&label=Profile+views" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0ea5e9,100:0f766e&height=120&section=footer" width="100%" alt="" />
+<br/>
+
+<sub>Terminal UI sections powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 
 </div>
