@@ -2,7 +2,7 @@
 
 <img src="assets/header.png" width="900" alt="Abdullah Mumtaz - Full Stack Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I%27m+Abdullah+%F0%9F%91%8B;I+build+scalable+web+%26+Android+apps;Web%2C+WordPress%2C+automation+%26+SaaS;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=780&height=50&lines=Hi%2C+I%27m+Abdullah+%F0%9F%91%8B;I+build+web%2C+app+%26+automation+solutions;Web+%C2%B7+App+%C2%B7+Automation+%C2%B7+SaaS;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
 
 <br/>
 
