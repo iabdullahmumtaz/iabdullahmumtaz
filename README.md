@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,45:0ea5e9,100:1e3a5f&height=200&section=header&text=Abdullah%20Mumtaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20TypeScript%20%C2%B7%20MERN%20%C2%B7%20SaaS&descAlignY=55&descSize=16" width="100%" alt="Abdullah Mumtaz" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,45:0ea5e9,100:1e3a5f&height=200&section=header&text=Abdullah%20Mumtaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Web%20%26%20Android%20%7C%20SaaS&descAlignY=55&descSize=16" width="100%" alt="Abdullah Mumtaz" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I%27m+Abdullah+%F0%9F%91%8B;I+build+production+SaaS+%26+web+apps;Collaborator+on+Lottae+%C2%B7+Time2Wash+%C2%B7+Master+Portal;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I%27m+Abdullah+%F0%9F%91%8B;I+build+scalable+web+%26+Android+apps;Web%2C+WordPress%2C+automation+%26+SaaS;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmumtaz-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdullahmumtaz)
@@ -45,33 +45,39 @@ Code I ship as a **collaborator** on repositories I don’t own — merged PRs &
 
 ## About Me
 
-Results-driven **Senior Full Stack Developer** with **3+ years** shipping production web apps, multi-tenant **SaaS platforms**, enterprise dashboards, and digital products for international clients — from UI/API design through cloud deployment.
+**Full Stack Engineer** building scalable web applications, custom websites, WordPress business sites, automation systems, and Android products for startups and businesses worldwide.
+
+I help teams launch faster with clean UI, SEO-ready builds, and reliable delivery across React, Next.js, Node.js, and cloud deployment for clients in Pakistan, Canada, and beyond.
 
 - Currently **Full Stack Engineer** at [IT Dukes](https://itdukes.com)
 - Flagship work: **Lottae**, **Time2Wash**, **Shahen Express**, **Master Portal**, **DMS**
-- Stack: React · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB · AWS
-- Focus: Multi-tenant SaaS, RBAC, performance, clean architecture, CI/CD
-- Based in **Lahore, PK** · open to remote worldwide
+- **SaaS platforms**, admin panels, and multi-tenant dashboards
+- **Custom websites**, WooCommerce, and booking systems
+- **Automation** with n8n, Zapier, and AI-powered workflows
+- **Android apps**, cloud setup, and performance-focused delivery
+- Based in **Lahore, Pakistan** · open to remote worldwide
 
 ---
-
-<div align="center">
 
 ## Tech Stack
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vue,angular,html,css" alt="Frontend skills" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vue,angular,html,css,kotlin" alt="Frontend skills" />
+</p>
 
 **Backend**
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,laravel,php" alt="Backend skills" />
+</p>
 
 **Database & Cloud**
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws,docker,firebase,vercel,git,github" alt="Database and cloud skills" />
-
-</div>
+</p>
 
 ---
 
@@ -169,29 +175,6 @@ Results-driven **Senior Full Stack Developer** with **3+ years** shipping produc
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Education</h3>
-      <b>BS Computer Science</b><br/>
-      University of Lahore<br/>
-      Intermediate (ICS) — Aspire Group of Colleges
-    </td>
-    <td width="50%" align="center">
-      <h3>Leadership</h3>
-      <b>Director IT Support</b> — Innovation Olympiad 5.0 & 6.0<br/>
-      <b>Module Head</b> — Speed Programming<br/>
-      <b>Team Lead</b> — IEEE ICACS ’24–’26
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
