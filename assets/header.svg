@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Abdullah Mumtaz - Full Stack Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f766e"/>
@@ -13,6 +13,6 @@
   <rect width="900" height="200" fill="url(#bg)"/>
   <path d="M0,145 C120,118 240,170 360,145 C480,120 600,168 720,142 C810,122 870,132 900,138 L900,200 L0,200 Z" fill="url(#wave)"/>
   <path d="M0,162 C150,138 300,188 450,160 C600,132 750,182 900,158 L900,200 L0,200 Z" fill="#ffffff" fill-opacity="0.05"/>
-  <text x="450" y="88" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" text-anchor="middle">Abdullah Mumtaz</text>
-  <text x="450" y="122" fill="#ccfbf1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="middle">Full Stack Engineer · Web &amp; Android · SaaS</text>
+  <text x="450" y="88" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle">Abdullah Mumtaz</text>
+  <text x="450" y="122" fill="#ccfbf1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="500" text-anchor="middle">Full Stack Engineer | Web and Android | SaaS</text>
 </svg>
