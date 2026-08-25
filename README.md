@@ -4,37 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=780&height=50&lines=Hi%2C+I%27m+Abdullah+%F0%9F%91%8B;I+build+web%2C+app+%26+automation+solutions;Web+%C2%B7+App+%C2%B7+Automation+%C2%B7+SaaS;Open+to+full-time+%26+contract+roles)](https://github.com/iabdullahmumtaz)
 
-<br/>
-
-<img src="assets/highlights.svg" width="900" alt="Career highlights" />
-
 </div>
-
----
-
-<div align="center">
-
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=iabdullahmumtaz&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=iabdullahmumtaz&theme=github-dark&style=terminal&mode=dark" width="100%" alt="Contribution heatmap" />
-</picture>
-
-</div>
-
----
-
-## Collaborations
-
-Code I ship as a **collaborator** on repositories I don't own — merged PRs and production features.
-
-| Repository | Role | Impact |
-|:-----------|:-----|:-------|
-| **[amantimewash/time2wash](https://github.com/amantimewash/time2wash)** | Core Collaborator · **49** merged PRs | Corporate discounts, commission fixes, custom slots, booking flows, UI fixes |
-| **[Ahsan-Sajid-DMS/lottae](https://github.com/Ahsan-Sajid-DMS/lottae)** | Core Collaborator · **37** merged PRs | Multi-tenant PM SaaS — boards, Jira-style UX, feature delivery |
-| **[Ahsan-Sajid-DMS/Master-Portal](https://github.com/Ahsan-Sajid-DMS/Master-Portal)** | Collaborator · **13** merged PRs | Ops dashboard — licensing, billing, RBAC, client management |
-| **[Ahsan-Sajid-DMS/omni1-setup-guide](https://github.com/Ahsan-Sajid-DMS/omni1-setup-guide)** | Contributor | Setup / onboarding messaging improvements |
 
 ---
 
@@ -55,44 +25,36 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
 
 ---
 
-## Tech Stack
-
-**Frontend**
+## Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vue,angular,html,css,kotlin" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,aws,azure,tailwind,mongodb,postgres,mysql,graphql,redux,git,vscode,vercel,docker,figma,html,css,py,postman,powershell,supabase,vite,php,vue,angular,kotlin,prisma,laravel,firebase,github,wordpress&perline=12" alt="Technologies and tools" />
 </p>
-
-**Backend**
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,laravel,php" alt="Backend skills" />
-</p>
-
-**Database & Cloud**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws,docker,firebase,vercel,git,github" alt="Database and cloud skills" />
+  <img src="https://skills.syvixor.com/api/icons?i=slack,turborepo,claudeai&perline=12" alt="Slack, Turborepo, Claude" />
 </p>
 
 ---
 
-## Flagship Projects
+## Projects
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | **[Lottae](https://github.com/Ahsan-Sajid-DMS/lottae)** | Multi-tenant PM SaaS — Kanban, sprints, RBAC, forms, analytics | Next.js · Prisma · PostgreSQL · tRPC |
 | **[Time2Wash](https://github.com/amantimewash/time2wash)** | On-demand car wash marketplace — booking, HyperPay, corporate | Node.js · Express · MySQL · Firebase |
+
+<details>
+<summary><b>More</b></summary>
+
+<br/>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
 | **[Master Portal](https://github.com/Ahsan-Sajid-DMS/Master-Portal)** | Multi-tenant ops dashboard — licensing, billing, RBAC | Next.js · MongoDB · AWS S3 |
 | **[Portfolio](https://github.com/iabdullahmumtaz/portfolio)** | Personal brand site — motion UI, proposals, service pages | Next.js · TypeScript · Vercel |
 | **[Parallax Technologies](https://github.com/iabdullahmumtaz/parallax-technologies)** | Corporate website and web application | Next.js · TypeScript · Tailwind |
 | **[x-portal](https://github.com/iabdullahmumtaz/x-portal)** | Multi-tenant operations portal — clients and domains | TypeScript · Next.js |
 | **[FormWeave](https://github.com/iabdullahmumtaz/FormWeave)** | Form builder SaaS — drag-and-drop, logic, analytics | React · Node · MongoDB |
-
-<details>
-<summary><b>More products I've built</b></summary>
-
-<br/>
 
 | Repo | Focus |
 |:-----|:------|
@@ -125,7 +87,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/SaaS-0ea5e9?style=for-the-badge" alt="SaaS" /><br/><br/>
       <b>Associate Software Engineer</b><br/>
       12th Spring<br/>
       <code>May 2024 – Oct 2025</code>
@@ -145,7 +106,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
 <table>
   <tr>
     <td width="28%">
-      <img src="https://img.shields.io/badge/Full--Stack-6366f1?style=for-the-badge" alt="Full-Stack" /><br/><br/>
       <b>Junior Web Developer</b><br/>
       Swiss Tech<br/>
       <code>Jun 2023 – Apr 2024</code>
@@ -157,7 +117,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Intern-64748b?style=for-the-badge" alt="Intern" /><br/><br/>
       <b>Web Development Intern</b><br/>
       Swiss Tech<br/>
       <code>Jan 2023 – Jun 2023</code>
@@ -169,7 +128,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Freelance-f59e0b?style=for-the-badge" alt="Freelance" /><br/><br/>
       <b>Full Stack / WordPress Developer</b><br/>
       Remote · International<br/>
       <code>2021 – Present</code>
@@ -189,16 +147,8 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmumtaz--portfolio.vercel.app-0d9488?style=for-the-badge)](https://abdullahmumtaz-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iabdullahmumtaz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iabdullahmumtaz)
-[![Instagram](https://img.shields.io/badge/Instagram-iabdullahmumtaz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iabdullahmumtaz)
-[![Email](https://img.shields.io/badge/Email-iabdullahofficial2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabdullahofficial2003@gmail.com)
-
-<br/>
-
-### Open to full-time & contract · React · Node · SaaS · Cloud
-
-<img src="https://komarev.com/ghpvc/?username=iabdullahmumtaz&style=flat-square&color=0d9488&label=Profile+views" alt="Profile views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmumtaz--portfolio.vercel.app-0d9488?style=for-the-badge&labelColor=0d9488)](https://abdullahmumtaz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iabdullahmumtaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/iabdullahmumtaz)
 
 <img src="assets/footer.png" width="900" alt="" />
 
