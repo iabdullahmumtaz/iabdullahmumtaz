@@ -147,8 +147,10 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmumtaz--portfolio.vercel.app-0d9488?style=for-the-badge&labelColor=0d9488)](https://abdullahmumtaz-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iabdullahmumtaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/iabdullahmumtaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge)](https://abdullahmumtaz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdullahmumtaz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iabdullahmumtaz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabdullahofficial2003@gmail.com)
 
 <img src="assets/footer.png" width="900" alt="" />
 
