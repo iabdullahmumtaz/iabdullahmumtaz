@@ -83,17 +83,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
       <b>Projects:</b> Lottae · Admin Portal · DMS · Time2Wash · Shahen Express
     </td>
   </tr>
-  <tr>
-    <td>
-      <b>Associate Software Engineer</b><br/>
-      12th Spring<br/>
-      <code>May 2024 – Oct 2025</code>
-    </td>
-    <td>
-      Built multi-tenant SaaS features: sprint boards, workflow automation, and analytics dashboards.<br/>
-      Stack: React, TypeScript, Redux, tRPC, Prisma, PostgreSQL, RBAC, Slack and email notifications, AWS S3.
-    </td>
-  </tr>
 </table>
 
 <details>
