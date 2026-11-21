@@ -12,11 +12,10 @@
 
 **Full Stack Engineer** · Lahore, Pakistan · open to remote worldwide
 
-I build scalable web applications, custom websites, WordPress business sites, automation systems, and Android products for startups and businesses worldwide — from UI/UX and full-stack development to cloud deployment, SEO, and workflow automation.
+I build scalable web applications, custom websites, WordPress business sites, automation systems, and Android products for startups and businesses worldwide from UI/UX and full-stack development to cloud deployment, SEO, and workflow automation.
 
 I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-ready builds, and reliable delivery using React, Next.js, Node.js, and cloud platforms.
 
-- Currently **Full Stack Engineer** at [IT Dukes](https://itdukes.com)
 - Flagship work: **Lottae**, **Time2Wash**, **Shahen Express**, **Master Portal**, **DMS**
 - **SaaS platforms**, admin panels, and multi-tenant dashboards
 - **Custom websites**, WooCommerce, and booking systems
@@ -74,9 +73,9 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
   <tr>
     <td width="28%">
       <img src="https://img.shields.io/badge/Current-0d9488?style=for-the-badge" alt="Current" /><br/><br/>
-      <b>Full Stack Engineer</b><br/>
+      <b>Associate Software Engineer</b><br/>
       <a href="https://itdukes.com">IT Dukes</a><br/>
-      <code>Oct 2025 – Present</code>
+      <code>May 2024 – Sep 2026</code>
     </td>
     <td>
       Leading production web apps and REST APIs from architecture to deployment.<br/>
@@ -130,7 +129,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
     <td>
       <b>Full Stack / WordPress Developer</b><br/>
       Remote · International<br/>
-      <code>2021 – Present</code>
     </td>
     <td>
       Delivered custom websites, WooCommerce stores, booking systems, and admin dashboards for global clients.<br/>
