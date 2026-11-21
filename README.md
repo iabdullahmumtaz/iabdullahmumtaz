@@ -128,6 +128,7 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
     <td>
       <b>Full Stack Developer</b><br/>
       Remote · International<br/>
+      <code>Jan 2023 – Present</code>
     </td>
     <td>
       Delivered custom websites, WooCommerce stores, booking systems, and admin dashboards for global clients.<br/>
