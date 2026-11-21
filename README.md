@@ -72,7 +72,6 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
 <table>
   <tr>
     <td width="28%">
-      <img src="https://img.shields.io/badge/Current-0d9488?style=for-the-badge" alt="Current" /><br/><br/>
       <b>Associate Software Engineer</b><br/>
       <a href="https://itdukes.com">IT Dukes</a><br/>
       <code>May 2024 – Sep 2026</code>
