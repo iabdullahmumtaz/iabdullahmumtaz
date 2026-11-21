@@ -126,7 +126,7 @@ I help teams in Pakistan, Canada, and beyond launch faster with clean UI, SEO-re
   </tr>
   <tr>
     <td>
-      <b>Full Stack / WordPress Developer</b><br/>
+      <b>Full Stack Developer</b><br/>
       Remote · International<br/>
     </td>
     <td>
